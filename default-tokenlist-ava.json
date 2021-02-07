@@ -1,0 +1,59 @@
+{
+  "name": "Complus Tokenlist",
+  "timestamp": "2020-09-20T00:00:00+00:00",
+  "version": {
+    "major": 0,
+    "minor": 2,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/complus.png",
+  "keywords": [
+    "complus",
+    "bnb",
+    "bsc",
+    "bep20",
+    "avax",
+    "ava labs",
+    "arc20",
+    "huobi",
+    "heco",
+    "hrc20",
+    "default",
+    "token",
+    "list"
+  ],
+  "tokens": [
+    {
+      "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "chainId": 43114,
+      "name": "Wrapped AVAX",
+      "symbol": "WAVAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/ava/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+    },
+    {
+      "address": "0x3711c397B6c8F7173391361e27e67d72F252cAad",
+      "chainId": 43114,
+      "name": "COMPLUS",
+      "symbol": "COM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/ava/0x3711c397B6c8F7173391361e27e67d72F252cAad/logo.png"
+    },
+    {
+      "address": "0x973c934137DD687eca67Bdd1c5A8B74286964Ac6",
+      "chainId": 43114,
+      "name": "ARGENT",
+      "symbol": "XAG",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/ava/0x973c934137DD687eca67Bdd1c5A8B74286964Ac6/logo.png"
+    },
+    {
+      "address": "0x8D5Bc37e34dDF31762A39E26e3a60dC30fD75B96",
+      "chainId": 43114,
+      "name": "CUPRUM",
+      "symbol": "XCU",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/ava/0x8D5Bc37e34dDF31762A39E26e3a60dC30fD75B96/logo.png"
+    }
+  ]
+}
