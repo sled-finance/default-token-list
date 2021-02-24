@@ -32,6 +32,14 @@
       "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xd329D4fB3e3F666f7499962FA097447Eb8505942/logo.png"
     },
     {
+      "address": "0xf77d7585D6585eb3AdC6B4e86BFb20467c05aB68",
+      "chainId": 128,
+      "name": "XCom",
+      "symbol": "xCOM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xf77d7585D6585eb3AdC6B4e86BFb20467c05aB68/logo.png"
+    },
+    {
       "address": "0x202b4936fE1a82A4965220860aE46d7d3939Bb25",
       "chainId": 128,
       "name": "AAVE Token",

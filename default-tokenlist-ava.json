@@ -32,6 +32,14 @@
         "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/ava/0x3711c397B6c8F7173391361e27e67d72F252cAad/logo.png"
     },
     {
+        "address": "0xa238B49BFc48E47533CF7b5488f8C9dA0EFbc843",
+        "chainId": 43114,
+        "name": "XCom",
+        "symbol": "xCOM",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/ava/0xa238B49BFc48E47533CF7b5488f8C9dA0EFbc843/logo.png"
+    },    
+    {
         "address": "0x60781C2586D68229fde47564546784ab3fACA982",
         "chainId": 43114,
         "name": "Pangolin",
