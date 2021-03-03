@@ -112,6 +112,14 @@
       "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x3D760a45D0887DFD89A2F5385a236B29Cb46ED2a/logo.png"
     },
     {
+      "address": "0x48C859531254F25e57D1C1A8E030Ef0B1c895c27",
+      "chainId": 128,
+      "name": "Depth Token",
+      "symbol": "DEP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x48C859531254F25e57D1C1A8E030Ef0B1c895c27/logo.png"
+    },
+    {
       "address": "0xA2c49cEe16a5E5bDEFDe931107dc1fae9f7773E3",
       "chainId": 128,
       "name": "HDOT Token",
