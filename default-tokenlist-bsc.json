@@ -376,14 +376,6 @@
       "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f/logo.png"
     },
     {
-      "address": "0x7fa892544D49598460B821De4D99E8c28b1Decaa",
-      "chainId": 56,
-      "name": "COMPLUS",
-      "symbol": "COM",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0x7fa892544D49598460B821De4D99E8c28b1Decaa/logo.png"
-    },
-    {
       "address": "0x0cC7CBC1609D2B6fD6D33048b9B4aDe8CF9dDe47",
       "chainId": 56,
       "name": "ARGENT",
