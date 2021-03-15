@@ -24,6 +24,30 @@
   ],
   "tokens": [
     {
+      "address": "0x7fa892544D49598460B821De4D99E8c28b1Decaa",
+      "chainId": 56,
+      "name": "COMPLUS",
+      "symbol": "COM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0x7fa892544D49598460B821De4D99E8c28b1Decaa/logo.png"
+    },
+    {
+      "address": "0x59d8e0Ad1A61b9BAf152a66cBAd2743A70555077",
+      "chainId": 56,
+      "name": "XCom",
+      "symbol": "xCOM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0x59d8e0Ad1A61b9BAf152a66cBAd2743A70555077/logo.png"
+    },
+    {
+      "address": "0x4E2DB40e31aaC72350ab8b83053Cc26dD923779d",
+      "chainId": 56,
+      "name": "COM+",
+      "symbol": "COM+",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0x4E2DB40e31aaC72350ab8b83053Cc26dD923779d/logo.png"
+    },
+    {
       "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
       "chainId": 56,
       "name": "Ethereum Token",
@@ -32,12 +56,36 @@
       "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0x2170Ed0880ac9A755fd29B2688956BD959F933F8/logo.png"
     },
     {
+      "address": "0xF4C5c1b495C4b4D7A8241320c63771BbA0228aaf",
+      "chainId": 56,
+      "name": "HuobiToken",
+      "symbol": "HT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0xF4C5c1b495C4b4D7A8241320c63771BbA0228aaf/logo.png"
+    },
+    {
+      "address": "0x2bab7aB8F69172cf51f169cFD0933Fbf3407051f",
+      "chainId": 56,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0x2bab7aB8F69172cf51f169cFD0933Fbf3407051f/logo.png"
+    },
+    {
       "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
       "chainId": 56,
       "name": "XRP Token",
       "symbol": "XRP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE/logo.png"
+    },
+    {
+      "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+      "chainId": 56,
+      "name": "Binance Pegged AVAX",
+      "symbol": "AVAXb",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0x1CE0c2827e2eF14D5C4f29a091d735A204794041/logo.png"
     },
     {
       "address": "0x55d398326f99059fF775485246999027B3197955",
@@ -234,8 +282,8 @@
     {
       "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
       "chainId": 56,
-      "name": "BTCB Token",
-      "symbol": "BTCB",
+      "name": "BTC Token",
+      "symbol": "BTC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c/logo.png"
     },

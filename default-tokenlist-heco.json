@@ -40,6 +40,14 @@
       "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xf77d7585D6585eb3AdC6B4e86BFb20467c05aB68/logo.png"
     },
     {
+      "address": "0x5185161D6f4304d58E8129430312F5206f0077FD",
+      "chainId": 128,
+      "name": "COM+",
+      "symbol": "COM+",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x5185161D6f4304d58E8129430312F5206f0077FD/logo.png"
+    },
+    {
       "address": "0x202b4936fE1a82A4965220860aE46d7d3939Bb25",
       "chainId": 128,
       "name": "AAVE Token",
@@ -54,6 +62,14 @@
       "symbol": "ARPA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0x5A6B72Dd6209A770aE1C02a7A2E1900636072d0b/logo.png"
+    },
+    {
+      "address": "0xaAF30bfD42bD9721E77cC31aB85Bac893dE07625",
+      "chainId": 128,
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xaAF30bfD42bD9721E77cC31aB85Bac893dE07625/logo.png"
     },
     {
       "address": "0x045De15Ca76e76426E8Fc7cba8392A3138078D0F",
@@ -78,6 +94,14 @@
       "symbol": "BETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xB6F4c418514dd4680F76d5caa3bB42dB4A893aCb/logo.png"
+    },
+    {
+      "address": "0xDB6E67b5c0E0BF6A69000be3218D4bc288c30102",
+      "chainId": 128,
+      "name": "BNB",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/heco/0xDB6E67b5c0E0BF6A69000be3218D4bc288c30102/logo.png"
     },
     {
       "address": "0xc2CB6B5357CcCE1B99Cd22232942D9A225Ea4eb1",
