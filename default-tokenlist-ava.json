@@ -1,10 +1,10 @@
 {
   "name": "Complus Tokenlist",
-  "timestamp": "2020-09-20T00:00:00+00:00",
+  "timestamp": "2021-03-21T00:00:00+00:00",
   "version": {
     "major": 0,
     "minor": 2,
-    "patch": 0
+    "patch": 1
   },
   "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/complus.png",
   "keywords": [
@@ -134,6 +134,14 @@
         "symbol": "PNG",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/ava/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+    },
+    {
+        "address": "0x1F1FE1eF06ab30a791d6357FdF0a7361B39b1537",
+        "chainId": 43114,
+        "name": "sled.finance",
+        "symbol": "SFI",
+        "decimals": 9,
+        "logoURI": "https://raw.githubusercontent.com/sled-finance/media/main/sled_token_fl.png"
     },
     {
         "address": "0x68e44C4619db40ae1a0725e77C02587bC8fBD1c9",
